@@ -1,16 +1,57 @@
-# mvvm_movie_app
+<p align="center">
+  <h1 align="center">Movie App</h1>
 
-A new Flutter project.
+  <p align="left">
+    Movie App is a flutter open source project built use clean architecture as System Architecture guideline.
+  </p>
+  <p align="left">  
+</p>
 
-## Getting Started
+[//]: # ([![GitHub release &#40;latest&#41;]&#40;https://img.shields.io/github/v/release/ErfanRht/Tasker&#41;]&#40;https://github.com/ErfanRht/Tasker/releases&#41;)
 
-This project is a starting point for a Flutter application.
+[//]: # (![GitHub repo size]&#40;https://img.shields.io/github/repo-size/ErfanRht/Tasker&#41;)
 
-A few resources to get you started if this is your first Flutter project:
+[//]: # ([![GitHub stars]&#40;https://img.shields.io/github/stars/ErfanRht/Tasker?style=social&#41;]&#40;https://github.com/ErfanRht/Tasker/stargazers&#41;)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[//]: # ([![GitHub forks]&#40;https://img.shields.io/github/forks/ErfanRht/Tasker?style=social&#41;]&#40;https://github.com/ErfanRht/Tasker/network/members&#41;)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[//]: # ([![GitHub issues]&#40;https://img.shields.io/github/issues/ErfanRht/Tasker?style=social&#41;]&#40;https://github.com/ErfanRht/Tasker/issues&#41;)
+
+[//]: # ([![GitHub license]&#40;https://img.shields.io/github/license/ErfanRht/Tasker?style=social&#41;]&#40;https://github.com/ErfanRht/Tasker/blob/master/LICENSE&#41;)
+
+<p align="center">
+    <img src="./screenshots/mockups/Tasker_Light.jpg" width="48%" />
+  &ensp;
+    <img src="./screenshots/mockups/Tasker_Dark.jpg" width="48%" />
+  &ensp;
+</p>
+
+## Screenrecords
+
+<p float="center">
+  <img src="https://github.com/ErfanRht/Tasker/blob/master/screenshots/videos/Screenrecord-dark.gif?raw=true" width="25%" />
+  &ensp;
+  <img src="https://github.com/ErfanRht/Tasker/blob/master/screenshots/videos/Screenrecord-light.gif?raw=true" width="25%" />
+  &ensp;
+</p>
+
+## Contribute
+If you have an issue or found a bug, please raise a GitHub issue [here](https://github.com/ErfanRht/Tasker/issues). Pull requests are also welcome.
+
+## License
+This project is licensed under the [Apache-2.0 License](https://github.com/ErfanRht/Tasker/blob/master/LICENSE).
+
+## Author
+This Flutter project is developed by [Irfan_Irawan_Sukirman](https://github.com/bakersbinary).
+
+## Supporters
+[![Stargazers repo roster for @ErfanRht/Tasker](https://reporoster.com/stars/ErfanRht/Tasker)](https://github.com/ErfanRht/Tasker/stargazers)
+[![Forkers repo roster for @ErfanRht/Tasker](https://reporoster.com/forks/ErfanRht/Tasker)](https://github.com/ErfanRht/Tasker/network/members)
+
+---
+
+<div align="center">
+
+### Show some ❤️ by starring 🌟 the repository!
+
+</div>
